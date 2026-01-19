@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Computer simulations of biological systems,AI & ML in drug design.**
 
-- 🌱 I’m currently learning **Deep learning & SQL**
+- 🌱 I’m currently learning **Deep learning & AI agents**
 
-- 💬 Ask me about **Biophysics simulation software,Window/linux-based OS and shell,Python,AI & ML.**
+- 💬 Ask me about **Biophysics simulation software,HPC,Window/linux-based OS and shell,Python,AI & ML.**
 
 - 📫 How to reach me **nadhirikhalid@gmail.com**
 
