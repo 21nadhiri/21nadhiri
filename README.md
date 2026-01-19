@@ -54,11 +54,15 @@ Linux | Git | Bash | SQL | HPC (SLURM)
 
 
 <h1 align="center">Hi 👋, I'm NADHIRI KAIJAGE</h1>
-<h3 align="center">A passionate medical informatician.</h3>
+<h3 align="center">Machine Learning Engineer | Generative AI | Azure ML | Computational Biophysist.</h3>
 <img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Computer simulations of biological systems,AI & ML in drug design.**
+- 🔭 I’m currently working on **Machine Learning models (classification, dimensionality reduction, evaluation)
+- Generative AI applications using Large Language Models (LLMs)
+- AI Agents for task orchestration, tool usage, and structured reasoning
+- Azure Machine Learning for experiment tracking and scalable model training
+- ML & simulation workflow automation on Linux/HPC systems**
 
 - 🌱 I’m currently learning **Deep learning & AI agents**
 
