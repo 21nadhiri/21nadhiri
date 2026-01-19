@@ -1,72 +1,23 @@
-Hi 👋, I'm Nadhiri Khalidi  
-Machine Learning Engineer | Generative AI | Azure ML
-
-I’m a Machine Learning Engineer with 4+ years of hands-on experience building
-ML models, automating data workflows, and developing AI-driven systems using Python.
-
-🔹 What I work on:
-- Machine Learning models (classification, dimensionality reduction, evaluation)
-- Generative AI applications using Large Language Models (LLMs)
-- AI Agents for task orchestration, tool usage, and structured reasoning
-- Azure Machine Learning for experiment tracking and scalable model training
-- ML & simulation workflow automation on Linux/HPC systems
-
-🔹 Recent work includes:
-- Building and evaluating ML pipelines for healthcare and drug discovery use cases
-- Developing LLM-based applications with prompt engineering and agent-based workflows
-- Automating large-scale ML and simulation workloads using Python and Bash
-- Supporting GenAI model training and evaluation for production environments
-
-🛠 Tech stack:
-Python | Scikit-learn | TensorFlow | Azure ML | LLMs | AI Agents  
-Linux | Git | Bash | SQL | HPC (SLURM)
-
-📍 Based in Europe (CET) | Open to fully remote contract roles
-
-📫 Reach me: nadhirikhalid@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/nadhiri-khalidi-kaijage-a81978176
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm NADHIRI KAIJAGE</h1>
 <h3 align="center">Machine Learning Engineer | Generative AI | Azure ML | Computational Biophysist.</h3>
 <img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Machine Learning models (classification, dimensionality reduction, evaluation)
+- 🔭 I’m currently working on **
+- Machine Learning models (classification, dimensionality reduction, evaluation)
 - Generative AI applications using Large Language Models (LLMs)
 - AI Agents for task orchestration, tool usage, and structured reasoning
 - Azure Machine Learning for experiment tracking and scalable model training
 - ML & simulation workflow automation on Linux/HPC systems**
 
-- 🌱 I’m currently learning **Deep learning & AI agents**
+- 🌱 My recent work inludes **
+- Building and evaluating ML pipelines for healthcare and drug discovery use cases
+- Developing LLM-based applications with prompt engineering and agent-based workflows
+- Automating large-scale ML and simulation workloads using Python and Bash
+- Supporting GenAI model training and evaluation for production environments**
 
-- 💬 Ask me about **Biophysics simulation software,HPC,Window/linux-based OS and shell,Python,AI & ML.**
+- 💬 Ask me about **biophysics simulation software, HPC, Windows/Linux systems, shell scripting, Python, AI & machine learning.**
 
 - 📫 How to reach me **nadhirikhalid@gmail.com**
 
