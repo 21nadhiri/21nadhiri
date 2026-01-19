@@ -1,3 +1,57 @@
+Hi 👋, I'm Nadhiri Khalidi  
+Machine Learning Engineer | Generative AI | Azure ML
+
+I’m a Machine Learning Engineer with 4+ years of hands-on experience building
+ML models, automating data workflows, and developing AI-driven systems using Python.
+
+🔹 What I work on:
+- Machine Learning models (classification, dimensionality reduction, evaluation)
+- Generative AI applications using Large Language Models (LLMs)
+- AI Agents for task orchestration, tool usage, and structured reasoning
+- Azure Machine Learning for experiment tracking and scalable model training
+- ML & simulation workflow automation on Linux/HPC systems
+
+🔹 Recent work includes:
+- Building and evaluating ML pipelines for healthcare and drug discovery use cases
+- Developing LLM-based applications with prompt engineering and agent-based workflows
+- Automating large-scale ML and simulation workloads using Python and Bash
+- Supporting GenAI model training and evaluation for production environments
+
+🛠 Tech stack:
+Python | Scikit-learn | TensorFlow | Azure ML | LLMs | AI Agents  
+Linux | Git | Bash | SQL | HPC (SLURM)
+
+📍 Based in Europe (CET) | Open to fully remote contract roles
+
+📫 Reach me: nadhirikhalid@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/nadhiri-khalidi-kaijage-a81978176
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm NADHIRI KAIJAGE</h1>
 <h3 align="center">A passionate medical informatician.</h3>
